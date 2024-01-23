@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+
+    //ProfileContainer
+    <string name="full_name">Hugo Camargo</string>
+    <string name="job_title">Android Developer</string>
+
+    //SocialContainer
+    <string name="mobile">+1 234 567 8900</string>
+    <string name="share">"@HugoCamargo"</string>
+    <string name="email">hugo.dev@android.com</string>
+</resources>
